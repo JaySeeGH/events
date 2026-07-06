@@ -1,0 +1,149 @@
+
+<codestructure version="2.1.0">
+<phptree>
+<treenode node="DB;PHP:PHP Word;10690855275298256371;f9;222;11;222;;1833809583305829824;f9;64;11;64;;7672902329182158156;f9;69;11;69;;;;vpos;;v;;a;;r$MySQLDB;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="HOST;PHP:PHP Word;10690855275298256371;f9;219;13;219;;1833809583305829824;f9;61;13;61;;7672902329182158156;f9;66;13;66;;;;vpos;;v;;a;;r$MySQLHost;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="PASS;PHP:PHP Word;10690855275298256371;f9;221;13;221;;1833809583305829824;f9;63;13;63;;7672902329182158156;f9;68;13;68;;;;vpos;;v;;a;;r$MySQLPassword;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="USER;PHP:PHP Word;10690855275298256371;f9;220;13;220;;1833809583305829824;f9;62;13;62;;7672902329182158156;f9;67;13;67;;;;vpos;;v;;a;;r$MySQLUsername;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="DB;PHP:PHP Word;0;f9;54;11;54;;0;f9;217;11;217;;0;f9;222;11;222;;;;vpos;;v;;a;;r$MySQLDB;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="HOST;PHP:PHP Word;0;f9;51;13;51;;0;f9;214;13;214;;0;f9;219;13;219;;;;vpos;;v;;a;;r$MySQLHost;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="PASS;PHP:PHP Word;0;f9;53;13;53;;0;f9;216;13;216;;0;f9;221;13;221;;;;vpos;;v;;a;;r$MySQLPassword;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="USER;PHP:PHP Word;0;f9;52;13;52;;0;f9;215;13;215;;0;f9;220;13;220;;;;vpos;;v;;a;;r$MySQLUsername;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="DB;PHP:PHP Word;0;f9;54;11;54;;;;vpos;;v;;a;;r$MySQLDB;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="HOST;PHP:PHP Word;0;f9;51;13;51;;;;vpos;;v;;a;;r$MySQLHost;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="PASS;PHP:PHP Word;0;f9;53;13;53;;;;vpos;;v;;a;;r$MySQLPassword;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="USER;PHP:PHP Word;0;f9;52;13;52;;;;vpos;;v;;a;;r$MySQLUsername;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="DB;PHP:PHP Word;0;f9;54;11;54;;0;f9;222;11;222;;0;f9;72;11;72;;;;vpos;;v;;a;;r$MySQLDB;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="HOST;PHP:PHP Word;0;f9;51;13;51;;0;f9;219;13;219;;0;f9;69;13;69;;;;vpos;;v;;a;;r$MySQLHost;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="PASS;PHP:PHP Word;0;f9;53;13;53;;0;f9;221;13;221;;0;f9;71;13;71;;;;vpos;;v;;a;;r$MySQLPassword;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="USER;PHP:PHP Word;0;f9;52;13;52;;0;f9;220;13;220;;0;f9;70;13;70;;;;vpos;;v;;a;;r$MySQLUsername;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="../var.php;PHP:PHP Include;0;f11;4;21;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="DB;PHP:PHP Word;0;f9;54;11;54;;0;f9;48;11;48;;0;f9;217;11;217;;0;f9;213;11;213;;0;f9;60;11;60;;0;f9;72;11;72;;0;f9;43;11;43;;0;f9;43;11;43;;0;f9;43;11;43;;0;f9;43;11;43;;0;f9;31;11;31;;0;f9;54;11;54;;0;f9;72;11;72;;0;f9;222;11;222;;0;f9;54;11;54;;;;vpos;;v;;a;;r$MySQLDB;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="HOST;PHP:PHP Word;0;f9;51;13;51;;0;f9;45;13;45;;0;f9;214;13;214;;0;f9;210;13;210;;0;f9;57;13;57;;0;f9;69;13;69;;0;f9;40;13;40;;0;f9;40;13;40;;0;f9;40;13;40;;0;f9;40;13;40;;0;f9;28;13;28;;0;f9;51;13;51;;0;f9;69;13;69;;0;f9;219;13;219;;0;f9;51;13;51;;;;vpos;;v;;a;;r$MySQLHost;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="MAX_STRUCTURED_SYMBOLS;PHP:PHP Word;0;f12;211;34;211;;0;f12;28;34;28;;0;f12;1041;34;1041;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Max number of symbols for structured mode;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="N1;PHP:PHP Word;0;f12;220;14;220;;0;f9;27;11;27;;0;f9;2499;11;2499;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Down point base value for case 1 mask pattern (concatenation of same color in a line or a column);;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="N2;PHP:PHP Word;0;f9;225;11;225;;0;f9;28;11;28;;0;f9;2500;11;2500;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Down point base value for case 2 mask pattern (module block of same color);;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="N3;PHP:PHP Word;0;f9;230;11;230;;0;f9;29;11;29;;0;f9;2501;11;2501;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Down point base value for case 3 mask pattern (1:1:3:1:1(dark:bright:dark:bright:dark)pattern in a line or a column);;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="N4;PHP:PHP Word;0;f9;235;11;235;;0;f9;30;11;30;;0;f9;2502;11;2502;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Down point base value for case 4 mask pattern (ration of dark modules in whole);;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="PASS;PHP:PHP Word;0;f9;53;13;53;;0;f9;47;13;47;;0;f9;216;13;216;;0;f9;212;13;212;;0;f9;59;13;59;;0;f9;71;13;71;;0;f9;42;13;42;;0;f9;42;13;42;;0;f9;42;13;42;;0;f9;42;13;42;;0;f9;30;13;30;;0;f9;53;13;53;;0;f9;71;13;71;;0;f9;221;13;221;;0;f9;53;13;53;;;;vpos;;v;;a;;r$MySQLPassword;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QRCAP_EC;PHP:PHP Word;0;f12;197;20;197;;0;f12;39;20;39;;0;f12;351;20;351;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Matrix index to get error correction level from $capacity array.;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QRCAP_REMINDER;PHP:PHP Word;0;f12;192;26;192;;0;f12;38;26;38;;0;f12;350;26;350;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Matrix index to get remainder from $capacity array.;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QRCAP_WIDTH;PHP:PHP Word;0;f12;182;23;182;;0;f12;36;23;36;;0;f12;348;23;348;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Matrix index to get width from $capacity array.;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QRCAP_WORDS;PHP:PHP Word;0;f12;187;23;187;;0;f12;37;23;37;;0;f12;349;23;349;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Matrix index to get number of words from $capacity array.;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QRCODEDEFS;PHP:PHP Word;0;f9;98;19;98;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Indicate that definitions for this class are set;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QRSPEC_VERSION_MAX;PHP:PHP Word;0;f9;170;27;170;;0;f12;33;30;33;;0;f12;345;30;345;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Maximum QR Code version.;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QRSPEC_WIDTH_MAX;PHP:PHP Word;0;f12;175;28;175;;0;f12;34;28;34;;0;f12;346;28;346;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Maximum matrix size for maximum version (version 40 is 177*177 matrix).;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_CACHEABLE;PHP:PHP Word;0;f12;7;24;7;;0;f12;7;24;7;;0;f12;116;24;116;;;;vpos;;v;;a;;rfalse;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_CACHE_DIR;PHP:PHP Word;0;f12;8;24;8;;0;f12;8;24;8;;0;f12;117;24;117;;;;vpos;;v;;a;;rfalse;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_DEFAULT_MASK;PHP:PHP Word;0;f12;13;27;13;;0;f9;254;24;254;;0;f12;13;27;13;;0;f12;122;27;122;;;;vpos;;v;;a;;r2;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_ECLEVEL_H;PHP:PHP Word;0;f9;158;21;158;;0;f9;42;21;42;;0;f9;90;21;90;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Error correction level H : About 30% or less errors can be corrected.;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_ECLEVEL_L;PHP:PHP Word;0;f9;143;21;143;;0;f9;39;21;39;;0;f9;87;21;87;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Error correction level L : About 7% or less errors can be corrected.;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_ECLEVEL_M;PHP:PHP Word;0;f9;148;21;148;;0;f9;40;21;40;;0;f9;88;21;88;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Error correction level M : About 15% or less errors can be corrected.;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_ECLEVEL_Q;PHP:PHP Word;0;f9;153;21;153;;0;f9;41;21;41;;0;f9;89;21;89;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Error correction level Q : About 25% or less errors can be corrected.;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_FIND_BEST_MASK;PHP:PHP Word;0;f12;11;29;11;;0;f9;244;26;244;;0;f12;11;29;11;;0;f12;120;29;120;;;;vpos;;v;;a;;rtrue;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_FIND_FROM_RANDOM;PHP:PHP Word;0;f12;12;31;12;;0;f9;249;28;249;;0;f12;12;31;12;;0;f12;121;31;121;;;;vpos;;v;;a;;r2;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_FORMAT_PNG;PHP:PHP Word;0;f9;47;22;47;;0;f9;95;22;95;;;;vpos;;v;;a;;r1;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_FORMAT_TEXT;PHP:PHP Word;0;f9;46;23;46;;0;f9;94;23;94;;;;vpos;;v;;a;;r0;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_IMAGE;PHP:PHP Word;0;f12;24;20;24;;0;f12;935;20;935;;;;vpos;;v;;a;;rtrue;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_LOG_DIR;PHP:PHP Word;0;f12;9;22;9;;0;f12;9;22;9;;0;f12;118;22;118;;;;vpos;;v;;a;;rfalse;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_MODE_8;PHP:PHP Word;0;f9;33;18;33;;0;f9;81;18;81;;;;vpos;;v;;a;;r2;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_MODE_8B;PHP:PHP Word;0;f9;122;19;122;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Encoding mode 8bit byte data. In theory, 2953 characters or less can be stored in a QRcode.;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_MODE_AN;PHP:PHP Word;0;f9;117;19;117;;0;f9;32;19;32;;0;f9;80;19;80;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Encoding mode alphanumeric (0-9A-Z $%*+-./:) 45characters. 2 characters are encoded to 11bit length. In theory, 4296 characters or less can be stored in a QRcode.;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_MODE_KANJI;PHP:PHP Word;0;f9;34;22;34;;0;f9;82;22;82;;;;vpos;;v;;a;;r3;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_MODE_KJ;PHP:PHP Word;0;f9;127;19;127;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Encoding mode KANJI. A KANJI character (multibyte character) is encoded to 13bit length. In theory, 1817 characters or less can be stored in a QRcode.;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_MODE_NL;PHP:PHP Word;0;f9;107;19;107;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Encoding mode;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_MODE_NM;PHP:PHP Word;0;f9;112;19;112;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Encoding mode numeric (0-9). 3 characters are encoded to 10bit length. In theory, 7089 characters or less can be stored in a QRcode.;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_MODE_NUL;PHP:PHP Word;0;f9;30;20;30;;0;f9;78;20;78;;;;vpos;;v;;a;;r-1;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_MODE_NUM;PHP:PHP Word;0;f9;31;20;31;;0;f9;79;20;79;;;;vpos;;v;;a;;r0;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_MODE_ST;PHP:PHP Word;0;f9;132;19;132;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Encoding mode STRUCTURED (currently unsupported);;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_MODE_STRUCTURE;PHP:PHP Word;0;f9;35;26;35;;0;f9;83;26;83;;;;vpos;;v;;a;;r4;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="QR_PNG_MAXIMUM_SIZE;PHP:PHP Word;0;f12;15;31;15;;0;f12;15;31;15;;0;f12;124;31;124;;;;vpos;;v;;a;;r1024;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="STRUCTURE_HEADER_BITS;PHP:PHP Word;0;f12;206;33;206;;0;f12;27;33;27;;0;f12;1040;33;1040;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Number of header bits for structured mode;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="USER;PHP:PHP Word;0;f9;52;13;52;;0;f9;46;13;46;;0;f9;215;13;215;;0;f9;211;13;211;;0;f9;58;13;58;;0;f9;70;13;70;;0;f9;41;13;41;;0;f9;41;13;41;;0;f9;41;13;41;;0;f9;41;13;41;;0;f9;29;13;29;;0;f9;52;13;52;;0;f9;70;13;70;;0;f9;220;13;220;;0;f9;52;13;52;;;;vpos;;v;;a;;r$MySQLUsername;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="phpqrcode/qrlib.php;PHP:PHP Include;0;f14;200;33;200;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="qrlib.php;PHP:PHP Include;0;f13;32;22;32;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="var.php;PHP:PHP Include;0;f11;4;18;4;;0;f11;4;18;4;;0;f11;4;18;4;;0;f11;4;18;4;;0;f11;4;18;4;;0;f11;4;18;4;;0;f12;3;19;3;;0;f12;3;19;3;;0;f12;3;19;3;;0;f12;3;19;3;;0;f11;4;18;4;;0;f11;4;18;4;;0;f11;4;18;4;;0;f11;4;18;4;;0;f11;4;18;4;;0;f11;4;18;4;;0;f11;4;18;4;;0;f11;4;18;4;;0;f11;4;18;4;;0;f11;4;18;4;;0;f11;4;18;4;;0;f11;4;18;4;;10690855275298256371;f11;4;18;4;;1833809583305829824;f11;4;18;4;;7672902329182158156;f11;4;18;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="varMySQL.php;PHP:PHP Include;0;f11;3;23;3;;0;f11;3;23;3;;0;f11;3;23;3;;0;f11;3;23;3;;0;f11;3;23;3;;0;f11;3;23;3;;0;f11;2;23;2;;0;f11;2;23;2;;0;f11;2;23;2;;0;f11;2;23;2;;0;f11;3;23;3;;0;f11;3;23;3;;0;f11;3;23;3;;0;f11;3;23;3;;0;f11;3;23;3;;0;f11;3;23;3;;0;f11;3;23;3;;0;f11;3;23;3;;0;f11;3;23;3;;0;f11;3;23;3;;0;f11;3;23;3;;0;f11;3;23;3;;10690855275298256371;f11;3;23;3;;1833809583305829824;f11;3;23;3;;7672902329182158156;f11;3;23;3;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="createMd5Hash;PHP:Function Name;0;f0;379;1;387;;0;f0;375;1;383;;0;f0;384;1;392;;0;f0;384;1;392;;0;f0;379;1;387;;0;f0;384;1;392;;10690855275298256371;f0;384;1;392;;;;vpos;;v;;a;;r;;d41,384;;b0,0;;m0;;e0;;i0;;o;;k;;lPOST_;;paMd5Hash_;;p;;x;;x;;n">
+</treenode>
+<treenode node="createWhereMd5Hash;PHP:Function Name;0;f0;375;1;377;;0;f0;371;1;373;;0;f0;380;1;382;;0;f0;380;1;382;;0;f0;375;1;377;;0;f0;380;1;382;;10690855275298256371;f0;380;1;382;;;;vpos;;v;;a;;r;;d50,380;;b0,0;;m0;;e0;;i0;;o;;k;;lPOST_;;pmd5Hash_;;pid_;;p;;x;;x;;x;;n">
+</treenode>
+<treenode node="mailTerritory;PHP:Function Name;0;f0;31;1;34;;;;vpos;;v;;a;;r;;d76,31;;b0,0;;m0;;e0;;i0;;o;;k;;leMailTo_;;peMailSubject_;;pnachricht_;;pheader_;;pdata_;;p;;x;;x;;x;;x;;x;;n">
+</treenode>
+<treenode node="str_split;PHP:Function Name;0;f2;272;3;283;;;;vpos;;v;;aIf;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    str_split($string, $split_length=1)&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Convert a string to an array (needed for PHP4 compatibility)&#10;&#10;&lt;b&gt;Parameters:&lt;/b&gt;&#10;    string &lt;b&gt;$string&lt;/b&gt;: The input string.&#10;    int &lt;b&gt;$split_length&lt;/b&gt;: Maximum length of the chunk.&#10;&#10;&lt;b&gt;Return:&lt;/b&gt;&#10;   the optional split_length  parameter is specified, the returned array will be broken down into chunks with each being split_length  in length, otherwise each chunk will be one character in length. FALSE is returned if split_length is less than 1. If the split_length length exceeds the length of string , the entire string is returned as the first (and only) array element.;;d47,272;;b0,0;;m0;;e0;;i0;;o;;k;;l $string;;p $split_length;;p;;x;;x;;n">
+</treenode>
+</phptree>
+<jstree>
+<treenode node="goToList;JS:Function Name;1833809583305829824;f0;278;2;282;;7672902329182158156;f0;292;2;296;;;;vpos;;v;;aObject_;;c;;r;;d25,292;;b0,0;;m0;;e0;;i0;;o;;k;;lform;;p;;x;;n">
+</treenode>
+<treenode node="reloadForEvent;JS:Function Name;1833809583305829824;f0;283;2;301;;7672902329182158156;f0;297;2;315;;;;vpos;;v;;aObject_;;c;;r;;d33,297;;b0,0;;m0;;e0;;i0;;o;;k;;lvalue_;;p;;x;;n">
+</treenode>
+<treenode node="$alarm;JS:JS Var Name;1833809583305829824;f10;273;16;273;;7672902329182158156;f10;287;16;287;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+</jstree>
+<pythontree>
+</pythontree>
+</codestructure>
